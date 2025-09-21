@@ -8,7 +8,11 @@ out/
 .apt_generated
 .classpath
 .factorypath
+2. Core Java.iml
 .project
+.idea
+.Hands On Java.iml
+Hands On Java.iml
 .settings
 .springBeans
 .sts4-cache
