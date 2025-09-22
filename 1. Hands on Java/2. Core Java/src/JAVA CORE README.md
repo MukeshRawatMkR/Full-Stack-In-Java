@@ -10,7 +10,11 @@
     *recorded on -> 30 May 2023*
 
 **4. Iterative Statements**
-*recorded on -> *
+*recorded on -> 1 June 2023*
+
+**5. Problem Solving**
+*recorded on -> 3 June 2023*
+
 
 
 ---------------------------------------
