@@ -11,6 +11,8 @@ public class Conditions {
         //(*)4. Pattern Matching for switch & instanceof (Java 16+)
 
 
+
+
     }
 
 }
