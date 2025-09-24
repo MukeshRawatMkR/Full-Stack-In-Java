@@ -29,6 +29,14 @@ public class TypeCasting {
         int b = (int) a;  // double → int
         System.out.println(b);
 
+        System.out.println(2+' '+10);//cuz of char
+        System.out.println(2+" "+10);//cuz of String.
+        System.out.println(2+ '\t' +10);//converted to unicode, which is \t -> 9.
+
+
+
+
+
     }
 }
 /*
