@@ -58,3 +58,5 @@ System.out.println(y); // prints -126
 Want me to break down how 130 becomes -126 at the bit level?
 bcz it follows circular effect.
 */
+
+//todo -> i need to practise more around the topic TypeCasting in Java.

@@ -14,8 +14,9 @@
 
 **5. Problem Solving**
 *recorded on -> 3 June 2023*
-1:51:31
 
+**six. Functions**
+*recorded on -> 25 June 2023*
 
 ---------------------------------------
 # Pre-requiste to learn JCF
