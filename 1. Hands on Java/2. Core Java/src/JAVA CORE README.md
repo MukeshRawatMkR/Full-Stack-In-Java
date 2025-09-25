@@ -18,6 +18,13 @@
 **six. Functions**
 *recorded on -> 25 June 2023*
 
+**7. Arrays**
+*recorded on -> 27 June 2023*
+
+
 ---------------------------------------
 # Pre-requiste to learn JCF
 https://chatgpt.com/c/68d049c1-db24-8326-9591-a8e9dd35a476
+
+# Topics inside methods
+https://chatgpt.com/c/68d41c14-bf64-8333-a3d1-e9580ce0c542
