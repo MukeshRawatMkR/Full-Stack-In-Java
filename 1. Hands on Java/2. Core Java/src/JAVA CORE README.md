@@ -20,7 +20,7 @@
 
 **7. Arrays**
 *recorded on -> 27 June 2023*
-
+*44:00 Done*
 
 ---------------------------------------
 # Pre-requiste to learn JCF
