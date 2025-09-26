@@ -20,8 +20,14 @@
 
 **7. Arrays**
 *recorded on -> 27 June 2023*
-*44:00 Done*
 
+**8. Array List**
+*recorded on -> 29 June 2023*
+*50:00 Done*
+
+**9. OOP**
+*recorded on -> 04 Aug 2023*
+*39:20*
 ---------------------------------------
 # Pre-requiste to learn JCF
 https://chatgpt.com/c/68d049c1-db24-8326-9591-a8e9dd35a476
