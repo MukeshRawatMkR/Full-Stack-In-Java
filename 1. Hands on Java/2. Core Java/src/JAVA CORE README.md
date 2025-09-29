@@ -27,7 +27,7 @@
 
 **9. OOP**
 *recorded on -> 04 Aug 2023*
-*3six:3six remaining*
+*recorded on -> 2six Aug 2023*
 
 
 ---------------------------------------

@@ -13,11 +13,11 @@ class AccessModifiers {
     private String fName;
 
     public String getter() {
-        return fName;
+        return this.fName;
     }
 
     public void setter(String firstName) {
-        fName = firstName;
+        this.fName = firstName;
     }
 
 }
